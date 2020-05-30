@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1589702255495' stop='1589702259640'>
+    <name>Set ENV</name>
+    <title>Set ENV</title>
+    <test-cases>
+        <test-case start='1589702255495' status='passed' stop='1589702259639'>
+            <name>Check the Env urls</name>
+            <title>Check the Env urls</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
